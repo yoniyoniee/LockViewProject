@@ -1,4 +1,4 @@
-package com.example.lockscreen
+package com.example.myapplication2
 
 import android.os.Bundle
 import android.view.View
